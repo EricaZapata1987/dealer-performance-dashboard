@@ -19,5 +19,4 @@ Dashboard interactivo desarrollado en Excel orientado al monitoreo de KPIs opera
 - Visualización de KPIs
 
 ## Vista previa del Dashboard
-
-![Vista Previa](Dashboard_Preview.jpeg)
+![Vista previa](Dashboard_Preview.png)
